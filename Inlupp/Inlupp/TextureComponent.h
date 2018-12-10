@@ -1,0 +1,6 @@
+#ifndef TEXTURECOMPONENT_H
+#define TEXTURECOMPONENT_H
+
+
+
+#endif
